@@ -12,6 +12,7 @@ h1,h2,h3,h4,h5,h6{
     content: '';
     display: block;
     clear: both;
+    
 }
 
 .maxwidth{
@@ -231,6 +232,7 @@ h1,h2,h3,h4,h5,h6{
         background-position: center bottom;
         height: 20em;
         padding-top: 17em;
+        background-size: cover;
         
     }
 }
@@ -240,6 +242,9 @@ h1,h2,h3,h4,h5,h6{
         background-image: url(./images/bg_topo_1600x1374.jpg);
         padding: 19em 20em 10em;
         background-position: center top;
+        background-size: cover;
+        
+        
     }
 
     .icon-play{
